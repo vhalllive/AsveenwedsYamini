@@ -3261,8 +3261,8 @@ textarea.w-select {
 }
 
 .gallery-section {
-    height: 170vh;
-    padding-top: 20px;
+    height: 150vh;
+    padding-top: 50px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#ffdde1), to(#ee9ca7));
     background-image: linear-gradient(180deg, #ffdde1, #ee9ca7);
 }
