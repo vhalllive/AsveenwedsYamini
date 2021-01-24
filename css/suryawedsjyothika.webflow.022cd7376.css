@@ -2721,7 +2721,7 @@ textarea.w-select {
 .live-section {
     display: block;
     overflow: visible;
-    height: 125vh;
+    height: 225vh;
     margin-right: auto;
     margin-left: auto;
     padding-top: 0px;
@@ -3578,7 +3578,7 @@ textarea.w-select {
         margin-top: 0px;
     }
     .live-section {
-        height: 90vh;
+        height: 135vh;
         background-size: cover;
     }
     .live-header {
